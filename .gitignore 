@@ -1,0 +1,27 @@
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+
+# IDE files
+.idea/
+
+# Secrets / crypto material
+*.key
+*.bin
+.env
+
+# Databases & encrypted artifacts
+*.db
+*.enc
+
+# Generated output
+generated_barcodes/
+qr_codes/
+dist/
+build/
+
+# OS noise
+.DS_Store
